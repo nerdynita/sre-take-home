@@ -1,4 +1,4 @@
-# SRE Internship Take-Home Project: Nginx Web Server on AWS with Terraform
+# SRE Take-Home: Nginx Web Server on AWS with Terraform
 
 This project uses Terraform to create a web server in the AWS cloud. It is an EC2 instance running nginx and reachable by HTTP from your own IP address.
 
